@@ -6,6 +6,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
